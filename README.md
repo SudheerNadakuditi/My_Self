@@ -2,8 +2,7 @@
 - 👀 I’m a professional Java Developer
 - 🌱 I’m currently working in a service based it company
 - 💞️ I’m looking to collaborate on free lancing for backend services
-- 📫 How to reach me ...InstaId  : @sudheerstupendous
--                        LinkedIn : https://www.linkedin.com/in/sudheer-nadakuditi-0225ba258
+- 📫 How to reach me ...LinkedIn : https://www.linkedin.com/in/sudheer-nadakuditi-0225ba258
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ...N/A
 
